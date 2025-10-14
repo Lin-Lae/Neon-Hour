@@ -3,6 +3,8 @@
 A simple digital clock built with **HTML**, **CSS**, and **JavaScript**.  
 It shows the current time and updates every second.
 
+🔗 **Live Demo:** [View Clock](https://github.com/Lin-Lae/clock)
+
 ---
 
 ### ⚙️ How to Use
