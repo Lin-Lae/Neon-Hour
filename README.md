@@ -1,16 +1,26 @@
 # ⏰ Clock
 
-A simple digital clock built with **HTML**, **CSS**, and **JavaScript**.  
-It shows the current time and updates every second.
-
-🔗 **Live Demo:** [View Clock](https://github.com/Lin-Lae/clock)
+A simple, responsive digital clock built with **HTML**, **CSS**, and **JavaScript**.  
+It displays the current time in hours, minutes, and seconds, updating in real time.
 
 ---
 
-### ⚙️ How to Use
-Open `index.html` in your browser — the clock will start automatically.
+## 🪶 Features
+- Displays current time dynamically using JavaScript  
+- Automatically updates every second  
+- 12-hour or 24-hour format (depending on locale)  
+- Clean and minimal design
 
 ---
 
-### 🧭 Tech
-HTML · CSS · JavaScript
+## 🧭 Technologies Used
+- **HTML5** — structure  
+- **CSS3** — styling  
+- **JavaScript (ES6)** — functionality
+
+---
+
+## ⚙️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Lin-Lae/clock-.git
