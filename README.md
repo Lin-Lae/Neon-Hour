@@ -3,6 +3,8 @@
 A simple, responsive digital clock built with **HTML**, **CSS**, and **JavaScript**.  
 It displays the current time in hours, minutes, and seconds, updating in real time.
 
+Check it live here: [Neon Hour](https://neonhour.netlify.app/)
+
 ---
 
 ## 🪶 Features
